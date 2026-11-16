@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-fast-user-switching"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS fast-user-switching component - user_management"
+
+[lib]
+name = "fast_user_switching"
+path = "src/lib.rs"
