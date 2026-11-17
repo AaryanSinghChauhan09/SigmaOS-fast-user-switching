@@ -3,7 +3,7 @@ name = "SigmaOS-fast-user-switching"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "fast-user-switching component"
+description = "fast user switching"
 upstream = []
 
 [contract]
